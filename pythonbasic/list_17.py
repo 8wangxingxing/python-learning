@@ -1,0 +1,11 @@
+numbers = [121, 22, 31, 64, 15, 24]
+numbers.append(20)
+print(numbers)
+numbers.insert(3,20)
+print(numbers)
+print(sorted(numbers))
+print(sorted(numbers, reverse=True))
+numbers.remove(22)
+print(numbers)
+print(max(numbers))
+print(min(numbers))

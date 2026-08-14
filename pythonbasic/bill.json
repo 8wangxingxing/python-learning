@@ -1,0 +1,30 @@
+[
+    {
+        "number": 1,
+        "billtype": "收入",
+        "amount": 24,
+        "note": "e",
+        "category": "e"
+    },
+    {
+        "number": 2,
+        "billtype": "收入",
+        "amount": 23,
+        "note": "哎",
+        "category": "吸收"
+    },
+    {
+        "number": 4,
+        "billtype": "收入",
+        "amount": 89,
+        "note": "没事",
+        "category": "1日家教"
+    },
+    {
+        "number": 5,
+        "billtype": "收入",
+        "amount": 45,
+        "note": "ger",
+        "category": "tfer"
+    }
+]
